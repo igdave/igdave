@@ -6,16 +6,16 @@
 
 ### 🚀 Currently
 
-- 📅 On a structured **30-day Python Backend Learning Plan** (Day 10/30)
-- 🔨 Working through: OOP → HTTP → FastAPI → SQLAlchemy → Docker → JWT Auth
-- 🎯 Goal: Build and deploy a production-ready Python backend API
+- 🔨 Learning backend development by building real projects — Python, REST APIs, FastAPI
+- 🎯 Goal: Build and deploy production-ready Python backend systems
+- ⚡ Shipped my first REST API — see projects below
 
 ---
 
 ### 🛠 Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-coming_soon-009688?style=flat&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-coming_soon-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -23,15 +23,13 @@
 
 ---
 
-### 📚 30-Day Learning Roadmap
+### 📚 What I've Learned So Far
 
-| Phase | Topics | Status |
-|-------|--------|--------|
-| Phase 1 – Python Core | Conditionals, loops, functions, dicts, JSON | ✅ Done |
-| Phase 2 – Backend Basics | JSON parsing, pagination, datetime, in-memory store, decorators | 🔄 In Progress (Day 10) |
-| Phase 3 – HTTP & REST | Raw HTTP server, routing, requests, REST design, CRUD | ⏳ Upcoming |
-| Phase 4 – FastAPI & DB | FastAPI, Pydantic, SQLite, SQLAlchemy async, middleware | ⏳ Upcoming |
-| Phase 5 – Testing & Deploy | pytest, JWT auth, Docker, capstone project | ⏳ Upcoming |
+- ✅ Python core: conditionals, loops, functions, dicts, JSON
+- ✅ OOP, defensive programming, error handling
+- ✅ Datetime handling, pagination, in-memory data structures
+- ✅ Building REST APIs with FastAPI & Pydantic
+- ⏳ Next up: databases (SQLAlchemy), authentication (JWT), testing (pytest), Docker
 
 ---
 
@@ -39,6 +37,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [notes-api-fastapi](https://github.com/igdave/notes-api-fastapi) | REST API with full CRUD, Pydantic validation & proper HTTP status codes | Python, FastAPI |
+| [task-manager-cli](https://github.com/igdave/task-manager-cli) | In-memory task manager with CRUD, pagination & datetime-based archiving | Python |
 | [python-banking-interface](https://github.com/igdave/python-banking-interface) | OOP banking ledger with defensive programming & transaction tracking | Python |
 | [glowfresh-landing-page](https://github.com/igdave/glowfresh-landing-page) | Responsive product landing page with live deployment | HTML, CSS, JS |
 
@@ -46,11 +46,11 @@
 
 ### 📈 What's Next
 
-Once I complete the 30 days, my profile will include:
-- A fully deployed **FastAPI REST API** with database integration
-- **JWT authentication** implementation
-- **Docker** containerised app
-- **pytest** test suite
+Working toward:
+- Database integration with **SQLAlchemy**
+- **JWT authentication**
+- **Docker** containerisation
+- **pytest** test coverage
 
 ---
 
